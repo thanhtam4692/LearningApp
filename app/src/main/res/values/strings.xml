@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearningApp</string>
+
+    <string name="hello_world">Welcome!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_load_file">LoadFileActivity</string>
+    <string name="numOfQuestion">Number of questions:</string>
+    <string name="process">Process from: </string>
+    <string name="title_activity_entry">EntryActivity</string>
+    <string name="chooseRight">You\'re right!</string>
+    <string name="author">Tran Thanh Tam</string>
+    <string name="author_right">by Tran Thanh Tam. May 2015. All rights reserve</string>
+</resources>
